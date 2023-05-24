@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+}
+
+
+input {
+    width: 100%;
+    padding: 10px 10px;
+    border: 2px solid #0066AA;
+}
+
+button {
+    padding: 10px 20px;
+    color: white;
+    background-color: #0066AA;
+    margin-top: 5px;
+    border: 1px solid #0066AA;
+    font-weight: bold;
+}
+
+#delete-btn {
+    background-color: white;
+    color: #0066AA;
+}
+
+/* STYLE THE LIST  */
+ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+    
+}
+
+li {
+    margin-top: 5px;
+}
+
+a {
+    color: #0066AA;
+}
